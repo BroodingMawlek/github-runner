@@ -15,6 +15,8 @@ RUN apt-get update \
         git \
         jq \
         iputils-ping \
+        unzip \
+        nodejs \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/* \
     && useradd -m github \
