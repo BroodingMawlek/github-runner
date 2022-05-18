@@ -1,3 +1,5 @@
+This is the code that was used to create the self hosted githubrunner
+
 # Github self-hosted runner Dockerfile and Kubernetes configuration
 
 Note
